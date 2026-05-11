@@ -23,19 +23,3 @@ It serves as a way to improve my **algorithmic thinking**, **data structure know
 - 🔴 **Hard** – Advanced problems focused on performance and complexity.
 
 Each file includes the **problem title**, **LeetCode number**, and a **C++ solution**.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-If you'd like to:
-- Add a new solution  
-- Improve code efficiency  
-- Add explanations or comments  
-- Provide solutions in another language  
-
-Feel free to **open a pull request** or create an **issue**.
-
----
-
